@@ -12,3 +12,10 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
     "description": "Describe it"
   },
 ]
+[
+
+  {
+     "title":"git config --global color.ui auto"
+     "description":"enables helpful colorization of command line output"
+  }
+]
