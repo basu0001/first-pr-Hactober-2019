@@ -15,4 +15,8 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
     "title": "git branch [branch-name]",
     "description": "This command creates a branch from a master branch, which we can play around with and make changes to."
   }
+  {
+    "title": "git stash save <message>"
+    "description": "When you want to record the current state of the working directory and the index, but want to go back to a clean working directory"
+  }
 ]
