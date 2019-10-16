@@ -8,7 +8,7 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
   },
   
 {
-    "title": "write your command",
-    "description": "Describe it"
+    "title": "git status",
+    "description": "Lists all newor modified files to be committed"
   },
 ]
