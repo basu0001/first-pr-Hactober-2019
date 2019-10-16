@@ -8,8 +8,8 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
   },
   
 {
-    "title": "write your command",
-    "description": "Describe it"
+    "title": "git status",
+    "description": "Lists all new or modified files to be committed"
   },
   {
     "title": "git branch [branch-name]",
