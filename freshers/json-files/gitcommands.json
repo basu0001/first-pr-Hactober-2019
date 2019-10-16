@@ -8,7 +8,7 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
   },
   
 {
-    "title": "write your command",
-    "description": "Describe it"
+    "title": "git clone <link of the repository>",
+    "description": "It clones the repository in the desired folder!"
   },
 ]
