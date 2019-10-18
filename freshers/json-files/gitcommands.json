@@ -11,4 +11,8 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
     "title": "git status",
     "description": "lists all new or modified files to be committed"
   },
+  {
+    "title":"git diff",
+    "description":"shows file differences not yet staged"
+  },
 ]
