@@ -19,3 +19,4 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
 
   }
 ]
+git checkout -b <add-your-new-branch-name> : it si used to make a new branch
